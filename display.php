@@ -4,9 +4,10 @@ CTYPE html>
 <meta charset="utf-8">
 </head>
 <body>
+<h1>表示画面</h1>
 <?php
 echo $_GET['data'];
 ?>
 </body>
-</html>1
+</html>
 
